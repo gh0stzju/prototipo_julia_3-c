@@ -40,3 +40,4 @@ botão {
     color: var(--ghostwhite)
     display: flex;
 }
+justify-content:center;
